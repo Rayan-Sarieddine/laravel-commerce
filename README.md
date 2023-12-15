@@ -6,8 +6,3 @@
 <img src="./readme/title2.svg"/>
 
 > e-commerce application backend implementation with Laravel.
-
-<br><br>
-
-<!-- Prototyping -->
-<img src="./readme/title3.svg"/>
